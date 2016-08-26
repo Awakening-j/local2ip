@@ -1,0 +1,24 @@
+{
+  "name": "Local2ip",
+  "version": "1.1.0",
+  "manifest_version": 2,
+  "description": "localhost to ip address",
+  "icons": {
+    "128": "images/icon-128.png"
+  },
+  "default_locale": "en",
+  "background": {
+    "scripts": [
+      "scripts/utils.js",
+      "scripts/service.js",
+      "scripts/app.js",
+      "scripts/background.js"
+    ]
+  },
+  "permissions": ["webRequest", "webRequestBlocking", "<all_urls>", "tabs"],
+  "browser_action": {
+    "default_icon": {
+      "19": "images/icon-19.png"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "local2ip",
+    "description": "localhost to ip address"
+  },
+  "appDescription": {
+    "message": "localhost to ip address",
+    "description": "localhost to ip address"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "name": "colorshow",
+  "private": true,
+  "version": "0.0.0",
+  "dependencies": {
+    "normalize-css": "~4.2.0"
+  },
+  "devDependencies": {}
+}
