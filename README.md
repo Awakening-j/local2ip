@@ -3,7 +3,7 @@
   
 [<img width="250px" src="http://ww3.sinaimg.cn/large/5fd37818jw1eq7bx4bc4ej20c0038mx9.jpg">](https://chrome.google.com/webstore/detail/local2ip/nhhmpneggljndkdpkabjleiialindhkd)  
 
-## screenshot  
+## Screenshot  
 ![](https://github.com/Bruce-Jcw/local2ip/blob/ee12d4b960bd13035cc2ea6a1e705fc54287e6fb/material/screenshot.png)
 
 ### You may also like:  
